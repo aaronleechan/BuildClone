@@ -1,6 +1,7 @@
 # build_clone
 
 A new Flutter application.
+This application is practice for Flutter UI by cloning famous application framework design
 
 ## Getting Started
 
